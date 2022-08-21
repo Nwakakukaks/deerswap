@@ -1,9 +1,10 @@
-Golden coin is a cryptocurrency token used to invest in Gold.
-its has been integrated with Unstoppable domain login and domain resolution 
+## Deerswap
+Deerswap is a dapp for swapping tokens across different chains
 
-## DEMO LINK
-https://gdcoin.netlify.app
+## Demo link
+https://deerswap.netlify.app
 
+## Demo video
 
 
 # Getting Started with Create React App
