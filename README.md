@@ -1,11 +1,11 @@
 ## Deerswap
-Deerswap is a dapp for swapping tokens across different chains
+Deerswap is a dapp for swapping tokens across different chains, this is powered by hyphen widget
 
 ## Demo link
 https://deerswap.netlify.app
 
 ## Demo video
-
+https://youtu.be/qwqpLPOlzVY
 
 # Getting Started with Create React App
 
